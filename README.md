@@ -35,5 +35,5 @@ In this way, you can quickly obtain the market value of the vehicle you have or 
  * ![image](https://github.com/busrasulukan/Car_Prediction_Web_Scrapping_and_Ridge_Regression_Model/assets/129671358/9e6f5d6f-b37d-43a6-ad0b-c8bf38d1a1a4)
 
 ## You can access the article written about web scraping, which is one of the project steps, from the link below:
-* https://medium.com/@bsulukan18/new-york-city-mta-subway-traffic-eda-for-womentechwomenyes-wtwy-958fbf9a0872
+* https://medium.com/@bsulukan18/web-scraping-ve-web-kaz%C4%B1madan-%C3%B6nce-atman%C4%B1z-gereken-ad%C4%B1mlar-c92704499dc1
   
